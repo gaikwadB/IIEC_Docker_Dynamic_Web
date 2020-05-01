@@ -5,7 +5,7 @@ In this project there we adopt the docker compose infrastucture technology.
 Integrating all the configuration,creation and management usind docker-compose infrastructure.
 
 # What is Docker ?
-
+Docker is a set of platform as a service products that uses OS-level virtualization to deliver software in packages called containers. Containers are isolated from one another and bundle their own software, libraries and configuration files; they can communicate with each other through well-defined channels
 
 1. mysql:5.7  : you can fetch this image using "docker pull mysql:5.7"
 2. wordpress:5.1.1-php7.3-apache:- you can fetch this image using "docker pull wordpress:5.1.1-php7.3-apache"
